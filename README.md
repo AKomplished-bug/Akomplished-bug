@@ -1,5 +1,5 @@
 Hi there 👋
-
+![SVG ANIMATION](animation.svg)
 ![image](cover.png)
 
 AKomplished-bug/Akomplished-bug is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
