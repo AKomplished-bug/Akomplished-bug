@@ -1,7 +1,7 @@
 ![alt text](haha.gif)
 
 
-I'm an AI/ML Developer
+<h1 align='center'> I'm an AI/ML Developer </h1>
 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
