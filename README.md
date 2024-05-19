@@ -15,7 +15,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/LangChain-FF8700?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
-Connect with me
+<!-- Connect with me hello -->
 <p align="left">
   <a href="https://github.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
