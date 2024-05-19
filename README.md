@@ -1,8 +1,8 @@
 ![alt text](haha.gif)
 
 
-<h1 align='center'> I'm a Software Developer(AI/ML) </h1>
-<h2 align='left'> Tech Stack </h2>
+<h1 align='center'> I'm a Software Developer(AI/ML) with a knack of developing partially completed projects :) </h1>
+<h2 align='left'> Tech stacks I have met so far! </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
