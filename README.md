@@ -32,4 +32,7 @@
   <a href="https://x.com/Athul_06" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  <a href="mailto:athulkrishna8781@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
