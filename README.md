@@ -38,19 +38,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athulkrishna2002&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulkrishna2002&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKomplished-bug&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKomplished-bug&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulkrishna2002&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKomplished-bug&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=athulkrishna2002&theme=onedark&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AKomplished-bug&theme=onedark&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
