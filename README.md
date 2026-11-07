@@ -19,7 +19,7 @@
 I build **real-time voice AI** — the streaming STT → LLM → TTS pipelines behind phone agents that answer, understand, and talk back in under a second. Right now that means telephony for regulated **BFSI** and **healthcare**, on [LiveKit](https://livekit.io) + SIP.
 
 ```text
-now      Voice AI Engineer @ Ignosis AI       BFSI voice platform · sub-700ms · LiveKit SIP
+now      Voice AI Engineer @ Ignosis AI       BFSI voice platform · ~1M calls/day · LiveKit SIP
 before   Voice AI Engineer @ Core Cognitics   multi-tenant voice AI · 10k+ calls/day
 ```
 
@@ -27,11 +27,11 @@ before   Voice AI Engineer @ Core Cognitics   multi-tenant voice AI · 10k+ call
 
 ### What I'm doing
 
-**`~/ignosis`** &nbsp;— A real-time voice platform for BFSI (debt-collection) telephony on LiveKit SIP (Exotel/Vobiz trunks). Targeting **sub-700 ms** end-to-end latency with full barge-in, per-provider STT/LLM/TTS failover, and an offline eval harness (WER + LLM-as-judge) that replays production calls to catch regressions before users do.
+**`~/ignosis`** &nbsp;— A real-time voice platform for BFSI (debt-collection) telephony on LiveKit SIP, now dialling **~1M calls/day** across 1,300+ concurrent lines on multiple carrier trunks, scheduled by a Redis queue with per-trunk concurrency and CPS limits. Targeting **sub-700 ms** end-to-end latency with full barge-in, per-provider STT/LLM/TTS failover, and an offline eval harness (WER + LLM-as-judge) that replays production calls to catch regressions before users do.
 
 **`~/core-cognitics`** &nbsp;— Co-led a multi-tenant voice AI platform on the LiveKit Agents SDK handling **10k+ calls/day** across healthcare & automotive. Multilingual (Arabic / Indic / European) with mid-call provider switching, a multi-layer guardrail system, MCP tool servers, and a RAG stack on Qdrant.
 
-**`~/open-source`** &nbsp;— Found and reported a bug in the [LiveKit Agents SDK (#5665)](https://github.com/livekit/agents/issues/5665) — STT errors closing the session without the tolerance counter LLM/TTS errors get.
+**`~/open-source`** &nbsp;— Contributor to the [LiveKit Agents SDK](https://github.com/livekit/agents): merged [#8249](https://github.com/livekit/agents/pull/8249), a fix for the inference client crashing on streamed tool-call arguments that arrive before the tool name, and reported [#5665](https://github.com/livekit/agents/issues/5665), STT errors closing the session without the tolerance counter that LLM/TTS errors get.
 
 <br/>
 
